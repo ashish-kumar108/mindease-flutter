@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "253934995878",
+    "project_id": "meditation-c96f7",
+    "storage_bucket": "meditation-c96f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253934995878:android:211f511bc537c782a12767",
+        "android_client_info": {
+          "package_name": "com.example.meditation_and_mindfulness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253934995878-alo2s3sinc8qpbsv2nejoufn3e89p9ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditation_and_mindfulness",
+            "certificate_hash": "1efd99013bc57364301fa248f326c455151c6b2c"
+          }
+        },
+        {
+          "client_id": "253934995878-s19clsfkaet7663t86m5uavg2c2mrjde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmD-ZvAnaeyfSYEcgC7ZLOpgxMNS5DUJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253934995878-s19clsfkaet7663t86m5uavg2c2mrjde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253934995878-hjom13icequ2ta4njbvnlv3f5vobu184.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meditationAndMindfulness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
